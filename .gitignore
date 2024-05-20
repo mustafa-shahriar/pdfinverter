@@ -1,0 +1,22 @@
+# Maven specific files
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Compiled class files
+*.class
+
+# Dependency directories
+dependency/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+/.vscode
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+*.pdf
